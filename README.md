@@ -59,6 +59,8 @@ High — Security Bypass: Client trusts forged success responses. That’s a hug
 Medium — Data Manipulation: Reaching later steps could allow tampering with account info or creating fraudulent requests.
 
 Medium — Escalation: Combined with other flaws, this could lead to greater access.
+<img width="553" height="676" alt="chrome_NlePzazUXp" src="https://github.com/user-attachments/assets/9ef2d650-f1a6-459d-92ea-e025dee7233e" />
+
 
 In short: small tampering → big logical confusion.
 
